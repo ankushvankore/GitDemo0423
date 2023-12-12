@@ -7,8 +7,4 @@ Trying to add some new code
 Adding some new code to File
 Adding this line from GIT
 Adding this line from Local
-<<<<<<< HEAD
-Good Evening from Local
-=======
-Good Evening From GitHUB
->>>>>>> e4e56a59e97ba74fee95d05a41b2f45de98e1d50
+Good evening
